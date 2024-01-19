@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-heroku-demo';
+  title = 'Adhi angular-heroku-demo Project';
 }
